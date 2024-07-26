@@ -1,14 +1,21 @@
-*Authors*: Murat Tamer, Ling Chung, Richard Ketcham and Andrew Gleadow
+## Authors
 
-*Title*: Squeezing the Rock: The Need for Fission Track Data Transparency
+Murat Tamer, Ling Chung, Richard Ketcham and Andrew Gleadow
 
-*Publication status*: in preparation
+## Title 
 
-*Samples*:
+Squeezing the Rock: The Need for Fission Track Data Transparency
+
+## Publication status
+
+In preparation
+
+## Samples
 
 The bracketed numbers in the following table mark the number of track counts and track lengths for each grain and analyst:
 
-sample\\analyst |  a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z |
+| sample\\analyst |  a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z |
+|-----------------|----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 4502 | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/a/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(56,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4502/analyst/NA/) | 
 4524 | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/a/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(13,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4524/analyst/NA/) | 
 4516 | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/a/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(52,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | [(0,0)](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/grain/4516/analyst/NA/) | 
