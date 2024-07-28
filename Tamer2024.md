@@ -4,7 +4,7 @@ Murat Tamer, Ling Chung, Richard Ketcham and Andrew Gleadow
 
 ## Title 
 
-Squeezing the Rock: The Need for Fission Track Data Transparency
+The Need for Fission Track Data Transparency
 
 ## Publication status
 
