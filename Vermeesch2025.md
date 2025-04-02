@@ -16,8 +16,7 @@ Geochronology (in review)
 
 Figure 2:
 
-|      PV        |      AC        |
-| (N<sub>s</sub>,μm<sup>2</sup>) | (N<sub>s</sub>,μm<sup>2</sup>) |
+| PV (N<sub>s</sub>,μm<sup>2</sup>) | AC (N<sub>s</sub>,μm<sup>2</sup>) |
 |----------------|----------------|
 | ( [7,3466](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15562) ) | ( [8,2979](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15608) )|
 | ( [29,5870](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15563) ) | ( [31,4631](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15609) )|
