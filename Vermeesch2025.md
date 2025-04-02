@@ -17,33 +17,33 @@ Geochronology (in review)
 Figure 2:
 
 |      PV        |      AC        |
-| (N~s~,\mu^2^) | (N~s~,\mu^2^) |
+| (N<sub>s</sub>,μm<sup>2</sup>) | (N<sub>s</sub>,μm<sup>2</sup>) |
 |----------------|----------------|
-| ((7,3466)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15562]) | ((8,2979))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15608]|
-| ((29,5870)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15563]) | ((31,4631))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15609]|
-| ((15,2700)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15560]) | ((12,2424))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15610]|
-| ((7,5802)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15555]) | ((7,5139))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15611]|
-| ((27,4902)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15556]) | ((27,4747))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15612]|
-| ((20,1367)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15561]) | ((39,3063))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15613]|
-| ((42,3782)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15559]) | ((40,3540))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15614]|
-| ((15,3952)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15564]) | ((24,4268))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15615]|
-| ((20,3802)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15565]) | ((21,3564))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15616]|
-| ((28,4837)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13505]) | ((24,4347))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15617]|
-| ((22,3686)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15567]) | ((34,3753))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15618]|
-| ((26,2710)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15633]) | ((21,2332))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15619]|
-| ((50,6190)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15634]) | ((45,5647))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15620]|
-| ((64,8489)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15650]) | ((43,6931))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15621]|
-| ((28,3037)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15652]) | ((23,2660))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15622]|
-| ((18,7648)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16372]) | ((18,6919))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15623]|
-| ((21,3652)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13504]) | ((21,2963))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15624]|
-| ((17,2554)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13521]) | ((18,2226))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15625]|
-| ((11,2774)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16374]) | ((11,2502))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15626]|
-| ((23,1785)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13580]) | ((21,1725))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15627]|
-| ((19,2823)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16377]) | ((21,2768))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15628]|
-| ((52,6576)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16378]) | ((46,4991))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15629]|
-| ((50,4937)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16379]) | ((58,4637))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15630]|
-| ((14,2499)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16380]) | ((13,2537))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15631]|
-| ((61,5486)[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16382]) | ((53,5064))[https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15632]|
+| ( [7,3466](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15562) ) | ( [8,2979](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15608) )|
+| ( [29,5870](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15563) ) | ( [31,4631](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15609) )|
+| ( [15,2700](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15560) ) | ( [12,2424](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15610) )|
+| ( [7,5802](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15555) ) | ( [7,5139](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15611) )|
+| ( [27,4902](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15556) ) | ( [27,4747](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15612) )|
+| ( [20,1367](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15561) ) | ( [39,3063](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15613) )|
+| ( [42,3782](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15559) ) | ( [40,3540](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15614) )|
+| ( [15,3952](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15564) ) | ( [24,4268](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15615) )|
+| ( [20,3802](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15565) ) | ( [21,3564](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15616) )|
+| ( [28,4837](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13505) ) | ( [24,4347](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15617) )|
+| ( [22,3686](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15567) ) | ( [34,3753](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15618) )|
+| ( [26,2710](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15633) ) | ( [21,2332](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15619) )|
+| ( [50,6190](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15634) ) | ( [45,5647](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15620) )|
+| ( [64,8489](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15650) ) | ( [43,6931](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15621) )|
+| ( [28,3037](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15652) ) | ( [23,2660](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15622) )|
+| ( [18,7648](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16372) ) | ( [18,6919](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15623) )|
+| ( [21,3652](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13504) ) | ( [21,2963](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15624) )|
+| ( [17,2554](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13521) ) | ( [18,2226](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15625) )|
+| ( [11,2774](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16374) ) | ( [11,2502](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15626) )|
+| ( [23,1785](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/13580) ) | ( [21,1725](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15627) )|
+| ( [19,2823](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16377) ) | ( [21,2768](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15628) )|
+| ( [52,6576](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16378) ) | ( [46,4991](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15629) )|
+| ( [50,4937](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16379) ) | ( [58,4637](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15630) )|
+| ( [14,2499](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16380) ) | ( [13,2537](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15631) )|
+| ( [61,5486](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16382) ) | ( [53,5064](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15632) )|
 
 [Figure 3a](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/public/79/1/)
 
