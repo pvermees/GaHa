@@ -44,8 +44,8 @@ Figure 2:
 | 4654| ( [14,2499](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16380) ) | ( [13,2537](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15631) )|
 | 4680| ( [61,5486](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16382) ) | ( [53,5064](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/15632) )|
 
-[Figure 3a](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/public/79/1/)
+[Figure 3a](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16438)
 
-[Figure 3b](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/public/79/2/)
+[Figure 3b](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16439)
 
 [Figure 4](https://github.com/pvermees/supplements/)
