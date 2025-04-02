@@ -8,7 +8,7 @@ FAIR fission track analysis with `geochron@home`
 
 ## Publication status
 
-Geochronology (in review)
+Geochronology (in preparation)
 
 ## Samples
 
