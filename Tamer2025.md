@@ -1,14 +1,14 @@
 ## Authors
 
-Murat Tamer, Ling Chung, Richard Ketcham and Andrew Gleadow
+Murat T. Tamer, Ling Chung, Richard A. Ketcham and Andrew J. W. Gleadow
 
 ## Title 
 
-The Need for Fission Track Data Transparency
+The need for fission-track data transparency and sharing
 
 ## Publication status
 
-In preparation
+Geochronology, 7, 1, 45-58, doi: 10.5194/gchron-7-45-2025
 
 ## Samples
 
