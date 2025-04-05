@@ -48,4 +48,4 @@ Figure 2:
 
 [Figure 3b](https://isoplotr.es.ucl.ac.uk/geochron@home/ftc/result/16439)
 
-[Figure 4](https://github.com/pvermees/supplements/)
+Figure 4 can be reproduced using an R code that is provided [here](https://github.com/pvermees/supplements/)
