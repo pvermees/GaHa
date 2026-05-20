@@ -6,9 +6,9 @@ Pieter Vermeesch, Tim Band, Jiangping He, Rex Galbraith and Andrew Carter
 
 FAIR fission track analysis with `geochron@home`
 
-## Publication status
+## Publication
 
-Geochronology (in review)
+Geochronology, 8, 1, 109-118, doi:10.5194/gchron-8-109-2026.
 
 ## Data
 
