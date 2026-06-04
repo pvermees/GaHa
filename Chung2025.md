@@ -1,14 +1,14 @@
 ## Authors
 
-Boone, S.C., Chung, L., Faux, N., Nattala, U., Church, T., Jiang, C., McMillan, M., Jones, S., Liu, D., Jiang, H. and Ehinger, K.
+Chung, L., Boone, S., McMillan, M., and Jones, S.
 
 ## Title 
 
-Raising the Bar: Deep Learning on Comprehensive Database Sets New Benchmark for Automated Fission-Track Detection.
+AI-Fission Track-Training Image Dataset.
 
 ## Publication
 
-Computers & Geosciences, v208, 2026, 106096
+Zenodo. DOI: 10.5281/zenodo.17121686
 
 |  | 02 | DUR | 06 | MICA | FCT |
 |--|--|--|--|--|--|
