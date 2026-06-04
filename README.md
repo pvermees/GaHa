@@ -4,4 +4,6 @@ This is a list of publicly accessible fission track datasets, hosted by [geochro
 
 1. [Guo et al. (2025)](Guo2025.md)
 2. [Tamer et al. (2025)](Tamer2025.md)
-3. [Vermeesch et al. (2026)](Vermeesch2026.md)
+3. [Boone et al. (2025)](Boone2025.md)
+4. [Vermeesch et al. (2026)](Vermeesch2026.md)
+5. [Nakajima et al. (2026)](Nakajima2026.md)
